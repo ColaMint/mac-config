@@ -28,4 +28,4 @@ alias -s bz2='tar -xjvf'
 
 ```
 ---
-#[iterm2](https://github.com/meso5533/vim/blob/master/deploy.sh)
+#[iTerm2](https://github.com/meso5533/vim/blob/master/deploy.sh)
