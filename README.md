@@ -5,7 +5,7 @@
 ###[字体](https://github.com/powerline/fonts)
 ###[配色方案](https://github.com/altercation/solarized)
 ###[命令高亮](https://github.com/zsh-users/zsh-syntax-highlighting)
-###[部分教程](http://www.jianshu.com/p/7de00c73a2bb)
+###[部分安装教程](http://www.jianshu.com/p/7de00c73a2bb)
 ###alias
 ```
 alias cls='clear'
